@@ -1,0 +1,4 @@
+pubsub.googleapis.com 
+monitoring.googleapis.com
+storage-api.googleapis.com
+

@@ -1,0 +1,2 @@
+roles/viewer
+roles/storage.objectAdmin
